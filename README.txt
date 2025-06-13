@@ -43,7 +43,7 @@ Ellie Makes Marketplace Assets - assets, fps_core movement guide/toolkit (https:
 
 [menu](main/Screenshot%20(4).png)
 
-![text](https://github.com/jasonchan239/CovertRecovery-Game/blob/main/Screenshot%20(4).png?raw=true)
+![text](https://github.com/jasonchan239/CovertRecovery-Game/blob/main/Screenshot%20(4).png)
 
 ![text](https://github.com/jasonchan239/CovertRecovery-Game/blob/main/Screenshot%20(5).png?raw=true)
 
