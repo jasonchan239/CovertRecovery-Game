@@ -41,13 +41,12 @@ Epic Games - assets
 Quixel Bridge - textures
 Ellie Makes Marketplace Assets - assets, fps_core movement guide/toolkit (https://emmadocs.dev/category/fps-core/fps-core-quickstart/)
 
-[menu](main/Screenshot%20(4).png)
 <br>
 <img src='./Screenshot%20(4).png'>
 <br>
-![alt text]( "Logo Title Text 1")
-![text](https://github.com/jasonchan239/CovertRecovery-Game/blob/main/Screenshot%20(4).png)
-
-![text](https://github.com/jasonchan239/CovertRecovery-Game/blob/main/Screenshot%20(5).png?raw=true)
-
-![text](https://github.com/jasonchan239/CovertRecovery-Game/blob/main/Screenshot%20(6).png?raw=true)
+<br>
+<img src='./Screenshot%20(5).png'>
+<br>
+<br>
+<img src='./Screenshot%20(6).png'>
+<br>
